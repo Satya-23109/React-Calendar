@@ -106,11 +106,3 @@ Then Upload build file to Netlify
 * Develop reporting and analytics features
 
 
-## License
-This project has been build by Shivam Anand from IIIT Sonepat.
-
-## Contact
-SHIVAM ANAND - shivam.anand.216@gmail.com
-
-Deployed Project Link: https://clever-gecko-9eabbb.netlify.app/
-
